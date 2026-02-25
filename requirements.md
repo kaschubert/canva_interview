@@ -7,6 +7,12 @@ canvas with
 - images
 - lines
 
+- refactor tools to typescript
+
+- edit shapes
+- move 
+- resize
+
 
 extended goals
 
